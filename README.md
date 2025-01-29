@@ -6,7 +6,10 @@ Jupyter Notebooks powered by NRP​_
 
 The goal of these resources is to enable instructors and professors to have the building blocks of building coursework for Jupyter on the [National Research Platform](https://nationalresearchplatform.org/)
 
-**Content Author:** J. Alex Hurt, University of Missouri
+**Content Authors:**
+
+- **Sample Module**: J. Alex Hurt, University of Missouri
+- **Slides**: Kyle Krick, SDSU and J. Alex Hurt, University of Missouri
 
 ## Content
 

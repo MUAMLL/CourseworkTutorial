@@ -2,6 +2,11 @@
 
 This directory contains the slides used for the tutorial.
 
+### JupyterHub for Education
+
+This slide deck explores the process and experiences of SDSU employing JupyterHub for education, including setup, data migration, Jupyter notebook distribution, and long-term support.
+
+Link to Slides: [JupyterHub for Instruction](./6NRP_JupyterHub_for_Instruction.pdf)
 
 ### Building a Lesson Plan for AI/ML Coursework
 
